@@ -1,4 +1,4 @@
-package com.rent.company;
+package com.rent.company.Domain;
 
 public enum CarTypesEnum {
     SEDAN("Sedan"),
